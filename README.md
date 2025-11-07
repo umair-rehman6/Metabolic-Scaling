@@ -5,9 +5,9 @@ This repository contains code and data for analyzing metabolic rate scaling in m
 ## 📁 Repository Structure
 
 ```
-├── 6428table1.html               # White & Seymour mammalian dataset (from PNAS 2003)
-├── KernelMetabolicScaling.ipynb  # Main analysis notebook (Colab-compatible)
-├── README.md                     # The current document. 
+├── 6428table1.html                 # White & Seymour mammalian dataset (from PNAS 2003)
+├── Curved_Metabolic_Scaling.ipynb  # Main analysis notebook (Colab-compatible)
+├── README.md                       # The current document. 
 ```
 
 ## 📊 Dataset
